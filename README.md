@@ -5,9 +5,14 @@
 
 Welcome to the ChatGBT React application, which enables you to have interactive conversations with ChatGBT using the OpenAI API.
 
+## App is deployed here :
+**Attention!** &#x1F6AB; You will encounter an error because there is no APIKey configured in this deployment. This deployment is intended for interface usage only.
+https://chatgbt-website.vercel.app/
+
 ## TODOs
 
 -  **Mobile Responsiveness**: Mobile responsiveness is currently not available in this version. We plan to add this feature in a future update.
+-  **Environment Variables**: For now, I am using my old API key directly inside the chatPage.jsx file in the src/pages directory. I plan to enhance security by transitioning to environment variables for storing sensitive information. You can test the app by replacing the API key as needed.
 
 ## How to Run the App
 
