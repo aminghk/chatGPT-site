@@ -1,7 +1,7 @@
 
 
 
-# ChatGBT React App
+# ChatGPT React App
 
 Welcome to the ChatGBT React application, which enables you to have interactive conversations with ChatGBT using the OpenAI API.
 
